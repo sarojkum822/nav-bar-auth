@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.register ,.product{
+    width: 320px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f4f3f3;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .register h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #020202;
+  }
+  
+  .register input {
+    width: 18.5rem;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .register input[type="submit"] {
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .register input[type="submit"]:hover {
+    background-color: #2980b9;
+  }
+  .register button{
+    background-color: #333;
+    width: 100%;
+    height: 3rem;
+    color: white;
+    border-radius: 2px;
+    
+  }
+  .register button:hover{
+    background-color: #2980b9;
+    transition: 1.3ms;
+  }
+  
+  /* Add more styles as needed */
+  

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.foot{
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    height: 3rem;
+    width: 100%;
+    color: white;
+    background-color: rgb(106, 110, 110);
+}
